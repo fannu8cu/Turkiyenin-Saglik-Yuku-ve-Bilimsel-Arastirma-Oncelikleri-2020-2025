@@ -55,6 +55,10 @@ Analiz, bilimsel arastirma odagi ile toplumsal hastalik yuku arasinda belirgin u
 | **Depresif Bozukluklar** | **8** | 2 | **+6** | **En Yuksek Odak** |
 
 
+**Hastalik Yuku ve Bilimsel Yayin Odagi Uyumsuzluk Haritasi**
+<img width="1180" height="989" alt="Unknown" src="https://github.com/user-attachments/assets/2fc30e61-9e1f-4db7-a665-272f04b48468" />
+
+
 ## 4. Politika Onerisi
 
 Analiz, bilimsel odagin DALY yuku en yuksek alanlar (orn: Kalp Hastaliklari, Inme) yerine, DALY yuku de yuksek olan ancak daha populer (orn: Diyabet, Depresyon) alanlara kaydigini gostermektedir.
